@@ -10,19 +10,24 @@
   "license": "MIT",
   "homepage": "https://github.com/ralftar/ng-mat-carousel",
   "bugs": "https://github.com/ralftar/ng-mat-carousel/issues",
-  "keywords": ["angular", "material", "carousel", "component", "module"],
+  "keywords": [
+    "angular",
+    "material",
+    "carousel",
+    "component",
+    "module"
+  ],
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {
-    "@angular/material": "~11.0.2",
-    "@angular/common": "~11.0.2",
-    "@angular/core": "~11.0.2",
+    "@angular/common": "~16.0.1",
+    "@angular/core": "~16.0.1",
+    "@angular/material": "~16.0.1",
     "hammerjs": "^2.0.8",
     "rxjs": "~6.6.3"
-  }
-,
+  },
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.5.0"
   }
 }
