@@ -44,7 +44,7 @@
     "@types/node": "^14.14.9",
     "@typescript-eslint/eslint-plugin": "^5.59.2",
     "@typescript-eslint/parser": "^5.59.2",
-    "core-js": "^3.7.0",
+    "core-js": "^3.47.0",
     "eslint": "^8.40.0",
     "eslint-plugin-import": "2.25.2",
     "eslint-plugin-jsdoc": "^44.2.4",
